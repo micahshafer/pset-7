@@ -420,4 +420,4 @@ function format(arr) {
   }
 
   return `[${formatted}]`;
-}
+} 
